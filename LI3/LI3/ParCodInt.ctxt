@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ParCodInt()
+comment1.params=co\ num
+comment1.target=ParCodInt(java.lang.String,\ int)
+comment2.params=x
+comment2.target=ParCodInt(ParCodInt)
+comment3.params=
+comment3.target=java.lang.String\ getCod()
+comment4.params=
+comment4.target=int\ getN()
+comment5.params=x
+comment5.target=void\ atualiza(ParCodInt)
+comment6.params=
+comment6.target=ParCodInt\ clone()
+comment7.params=c
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

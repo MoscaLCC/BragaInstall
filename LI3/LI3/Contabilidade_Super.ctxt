@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Contabilidade_Super()
+comment1.params=x
+comment1.target=void\ addContabilidade(Contabilidade)
+comment2.params=prod\ mes
+comment2.target=Contabilidade\ getContabilidadeMes(java.lang.String,\ int)
+comment3.params=mes
+comment3.target=double\ faturacaoMensal(int)
+numComments=4
